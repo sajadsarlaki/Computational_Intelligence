@@ -1,0 +1,15 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "steiner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sajad.S",
+  "license": "ISC",
+  "dependencies": {
+    "genetic-js": "^0.1.14",
+    "js-graph-algorithms": "^1.0.18"
+  }
+}
