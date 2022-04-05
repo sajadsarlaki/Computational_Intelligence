@@ -41,8 +41,9 @@
  `
   python FCM.py
  `
+ 
 <p align="left">
-    <img src="https://github.com/sajadsarlaki/Computational_Intelligence/blob/master/screen-shots/P2/FCM/1.png"   width="220" height="180">
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)    <img src="https://github.com/sajadsarlaki/Computational_Intelligence/blob/master/screen-shots/P2/FCM/1.png"   width="220" height="180">
     <img src="https://github.com/sajadsarlaki/Computational_Intelligence/blob/master/screen-shots/P2/FCM/2.png"   width="220" height="180">
     <img src="https://github.com/sajadsarlaki/Computational_Intelligence/blob/master/screen-shots/P2/FCM/3.png"   width="220" height="180">
     <img src="https://github.com/sajadsarlaki/Computational_Intelligence/blob/master/screen-shots/P2/FCM/4.png"   width="220" height="180">
